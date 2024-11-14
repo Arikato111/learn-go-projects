@@ -1,4 +1,4 @@
-module github.com/Arikato111/crud_fiber
+module github.com/Arikato111/learn-go-projects/crud_fiber
 
 go 1.23.2
 
